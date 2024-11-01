@@ -48,7 +48,9 @@
 
 ###
 
-![snake gif](https://github.com/DaviFerreira0106/DaviFerreira0106/blob/output/github-contribution-grid-snake-dark.svg)
+https://github.com/DaviFerreira0106/DaviFerreira0106/blob/output/github-contribution-grid-snake.gif
+
+![snake gif](https://github.com/DaviFerreira0106/DaviFerreira0106/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
