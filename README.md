@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DaviFerreira0106/DaviFerreira0106/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/DaviFerreira0106/DaviFerreira0106/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
