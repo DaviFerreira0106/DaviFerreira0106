@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Software Engineering Student 📖<br> - Java Programming Student ❤️<br> - Flutter Programming Student 🔥<br> - Creation of mobile applications 📔<br> - Participation in scientific research projects using AI 🤖</p>
+<p align="left">- Software Engineering 📖<br> - Java Programming Student ❤️<br> - Flutter Programming 🔥<br> - Creation of mobile applications 📔<br> - Participation in scientific research projects using AI 🤖</p>
 
 ###
 
