@@ -12,7 +12,7 @@ Também tenho experiência com **Flutter/Dart, Python, PostgreSQL, Firebase e de
 
 ## 🚀 Sobre mim
 
-* 🎓 Estudante de **Engenharia de Software**
+* 🎓 Formado em **Engenharia de Software**
 * 💻 Experiência profissional na área de tecnologia e suporte
 * ☕ Foco atual em **Java + Spring Boot**
 * 🔧 Experiência com desenvolvimento de **APIs REST**
