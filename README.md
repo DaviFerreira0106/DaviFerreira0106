@@ -1,52 +1,162 @@
-<h2 align="left">Hi,👋, I'm Davi Ferreira</h2>
+# 👋 Olá, eu sou Davi Ferreira!
 
-###
+### 💻 Desenvolvedor de Software | Java • Spring Boot • Flutter
 
-<p align="left">- Software Engineering 📖<br> - Java Programming Student ❤️<br> - Flutter Programming 🔥<br> - Creation of mobile applications 📔<br> - Participation in scientific research projects using AI 🤖</p>
+Sou desenvolvedor de software com experiência em desenvolvimento de aplicações, APIs REST, bancos de dados e soluções mobile.
 
-###
+Atualmente, meu foco profissional está no **desenvolvimento backend com Java e Spring Boot**, buscando construir aplicações bem estruturadas, escaláveis e de fácil manutenção.
 
-<h2 align="left">Techs</h2>
+Também tenho experiência com **Flutter/Dart, Python, PostgreSQL, Firebase e desenvolvimento web**, o que me permite atuar em diferentes partes de uma aplicação e compreender o ciclo completo de desenvolvimento.
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
+## 🚀 Sobre mim
 
-###
+* 🎓 Estudante de **Engenharia de Software**
+* 💻 Experiência profissional na área de tecnologia e suporte
+* ☕ Foco atual em **Java + Spring Boot**
+* 🔧 Experiência com desenvolvimento de **APIs REST**
+* 🗄️ Experiência com **PostgreSQL e Firebase**
+* 📱 Desenvolvimento mobile com **Flutter e Dart**
+* 🐍 Utilização de **Python** para desenvolvimento e análise de dados
+* 🌱 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
+* 🎯 Objetivo profissional: atuar como **Desenvolvedor de Software**, evoluindo principalmente na área de backend
 
-<h2 align="left">Stats</h2>
+---
 
-###
+## 🛠️ Tecnologias & Ferramentas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviFerreira0106&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviFerreira0106&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviFerreira0106&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+### 💻 Backend
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python" />
+</p>
+
+* Java
+* Spring Boot
+* APIs REST
+* Python
+
+### 🗄️ Banco de Dados & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,firebase" />
+</p>
+
+* PostgreSQL
+* Firebase
+* SQL
+* NoSQL
+
+### 📱 Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
+</p>
+
+* Dart
+* Flutter
+* Firebase
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+* HTML5
+* CSS3
+* JavaScript
+
+### 📊 Data & Python
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* Python
+* NumPy
+* Pandas
+* Análise e manipulação de dados
+
+---
+
+## 🧩 O que venho desenvolvendo
+
+Tenho trabalhado em projetos envolvendo diferentes áreas do desenvolvimento de software, principalmente:
+
+```text
+Backend
+ ├── Java
+ ├── Spring Boot
+ ├── APIs REST
+ └── PostgreSQL
+
+Mobile
+ ├── Flutter
+ ├── Dart
+ └── Firebase
+
+Data
+ ├── Python
+ ├── NumPy
+ └── Pandas
+
+Web
+ ├── HTML
+ ├── CSS
+ └── JavaScript
+```
+
+Meu principal objetivo é transformar conhecimentos teóricos em **projetos reais**, utilizando boas práticas de desenvolvimento, organização de código e arquitetura de software.
+
+---
+
+## 📌 Projetos em destaque
+
+### 🏭 Sistema de Gestão de Estoque
+
+Aplicação voltada para gerenciamento de estoque, desenvolvida com foco em backend.
+
+**Tecnologias:**
+
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `REST API`
+
+---
+
+### 📱 Aplicação Mobile para Fisioterapia
+
+Aplicação mobile desenvolvida para auxiliar no acompanhamento de atividades relacionadas à fisioterapia.
+
+**Tecnologias:**
+
+`Flutter` `Dart` `Firebase`
+
+O projeto também considera aspectos relacionados à **LGPD e proteção de dados**.
+
+---
+
+### 📚 Sistema de Biblioteca Virtual
+
+Sistema desenvolvido em Java para gerenciamento de uma biblioteca virtual.
+
+**Tecnologias:**
+
+`Java` `SQL` `POO`
+
+---
+
+### 💰 Aplicação de Controle de Gastos
+
+Aplicação mobile para gerenciamento de despesas pessoais.
+
+**Tecnologias:**
+
+`Flutter` `Dart` `Firebase`
+
+---
+
+## 📊 GitHub
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviFerreira0106/DaviFerreira0106/output/github-contribution-grid-snake-dark.svg">
@@ -54,39 +164,45 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaviFerreira0106/DaviFerreira0106/output/github-contribution-grid-snake.svg">
 </picture>
 
-###
+---
 
-<h2 align="left">Social Media</h2>
+## 📈 Atualmente
 
-###
+```text
+🔭 Desenvolvendo projetos com Java e Spring Boot
+🌱 Aprofundando conhecimentos em backend e arquitetura de software
+📚 Estudando boas práticas, APIs REST e banco de dados
+📱 Mantendo experiência com desenvolvimento mobile usando Flutter
+🐍 Explorando aplicações de Python e análise de dados
+💼 Buscando oportunidades na área de Desenvolvimento de Software
+```
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/daviferreira0106" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/daviferreira.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61568638143092&locale=pt_BR" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://t.me/+5511976997516" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://outlook.live.com/mail/0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+---
+
+## 🤝 Vamos nos conectar?
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/daviferreira0106">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:daviferreira0106@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DaviFerreira0106">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Transformando problemas em soluções através da tecnologia."
+
+**Obrigado pela visita! 🚀**
+
 </div>
-<div align="left">
-
-###
-</div>
-
-###
-
-###
-
-###
